@@ -1,3 +1,2 @@
 My first readme
-incognito
-incognito mode
+first readme edit in git
